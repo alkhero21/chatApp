@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA8xQ1h6FJZGK1JRr-lrz0V8k9cOfWD-HA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>218711774501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.allamzharov.chatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chatapp-bfb17</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapp-bfb17.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:218711774501:ios:34b79a9fae60400364f6cc</string>
+</dict>
+</plist>
